@@ -25,8 +25,7 @@ be in Python. Each part should be a jupyter notebook
 
 **Part 1: Research**\
 Reviewed the following papers.\
-A.
-https://www.sciencedirect.com/science/article/pii/S0378778816308970?via%3Dihub\
+A. https://www.sciencedirect.com/science/article/pii/S0378778816308970?via%3Dihub\
 B. https://www.sciencedirect.com/science/article/pii/S1364032116307420\
 C. <https://www.sciencedirect.com/science/article/pii/S0360544212002903>
 
