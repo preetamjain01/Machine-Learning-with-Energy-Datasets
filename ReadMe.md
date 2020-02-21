@@ -24,8 +24,7 @@ machine learning. AdaptiveAlgo only uses Python so your solution should
 be in Python. Each part should be a jupyter notebook
 
 **Part 1: Research**\
-Review the following papers and provide a jupyter notebook for each
-paper.\
+Reviewed the following papers.\
 A.
 https://www.sciencedirect.com/science/article/pii/S0378778816308970?via%3Dihub\
 B. https://www.sciencedirect.com/science/article/pii/S1364032116307420\
@@ -38,9 +37,9 @@ Preparation: Review the EDA tutorial here:\
 https://www.kdnuggets.com/2017/07/exploratory-data-analysis-python.html\
 Data for assignment:
 https://github.com/LuisM78/Appliances-energy-prediction-data\
-• Conduct an exploratory data analysis using Python packages (**plotly,
+• Conducted an exploratory data analysis using Python packages (**plotly,
 seaborn, matplotlib etc.**) to understand the dataset.\
-• Put together a PowerPoint report with graphs and key insights garnered
+• Created a PowerPoint report with graphs and key insights garnered
 from this analysis.
 
 **Part 3: Feature engineering**\
@@ -54,7 +53,7 @@ done to make the data usable. Use Python for this.
 
 **\
 Part 4: Prediction algorithms**\
-Try out Linear regression, Random forest, Neural networks to build
+Tried out Linear regression, Random forest, Neural networks to build
 prediction models in Python using sklearn. Compute RMS, MAPE, R2 and MAE
 for Training and Testing datasets. Which model would you recommend?
 Refer to Paper A for guidance on building models. (Note: The github has
@@ -72,7 +71,7 @@ importance? How do you rank important features? Which features would you
 eliminate and why? Also try Exhaustive search, Forward search and
 Backward search for regression models AdaptiveAlgo is curious about
 **tpot, featuretools(https://www.featuretools.com/demos ), Boruta,
-tsfresh.** Use these packages and compare and contrast feature
+tsfresh.** Used these packages and compared and contrasted feature
 engineering in each approach.
 
 **Part 6: Model Validation and Selection**\
@@ -80,27 +79,22 @@ Preparation:\
 https://jakevdp.github.io/PythonDataScienceHandbook/05.03-hyperparameters-and-modelvalidation.html
 (3)\
 AdaptiveAlgo is interested in understanding hyperparameter tuning and
-model validation prior to model selection for production. Review (3) and
-discuss various approaches and discuss which approach you would
+model validation prior to model selection for production. Reviewed and
+discussed various approaches and discussed which approach I would
 recommend. In addition, AdaptiveAlgo is intrigued by\
 • cross validation techniques\
 • Bias -variance tradeoff\
 • regularization (L1, L2, Elastic net)\
 • grid search options.\
-Illustrate all these in the context of model validation and selection.\
+Illustrated all these in the context of model validation and selection.\
 \
 **Part 7: Final pipeline**\
 Which model would you finally recommend and why?\
-Create a pipeline See (Feature selection as part of a pipeline in
+Created a pipeline See (Feature selection as part of a pipeline in
 http://scikitlearn.org/stable/modules/feature\_selection.html ) on how
 to automate the entire model from data ingestion to final model
 prediction
 
 **Part 8: Report and Model development methodology\***\
-• Put together a comprehensive report discussing your analysis in pdf.\
-• AdaptiveAlgo wants to see the whole project implemented as jupyter
-notebooks. Create jupyter notebooks for each part.\
-• AdaptiveAlgo also wants to see how you develop code and use github.
-Use and document the project using Github and use this for versioning of
-the code\
+• Created a comprehensive report discussing my analysis in pdf.\
 http://nbdime.readthedocs.io/en/stable/ for version checking
